@@ -1,5 +1,4 @@
-#!/bin/ruby
-# https://www.hackerrank.com/challenges/ctci-array-left-rotation
+
 n,k = gets.strip.split(' ')
 n = n.to_i
 k = k.to_i
